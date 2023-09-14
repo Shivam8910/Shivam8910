@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivam Kumar Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" height="250" width="450" src="https://www.troublefreepool.com/media/hello-gif.3474/full">
+<img align="right" alt="Coding" height="230" width="420" src="https://www.troublefreepool.com/media/hello-gif.3474/full">
 
 # 💫 About Me:
 🔭 I'm currently working on React-ive Pizza<br>🧑‍🤝‍🧑 I'm looking to collaborate on Mern projects<br>🤝 I'm looking for help with React<br>🌱 I'm currently learning React Js<br>☁️ Ask me about Java, React, MERN.<br>⚡Fun fact I am not funny<br> <br>
